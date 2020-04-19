@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585719812 source:c:\users\chor\desktop\表达式求值\fileinput.cpp
+	"head.h"
+
+1585713903 c:\users\chor\desktop\表达式求值\head.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<math.h>
+
+1585718847 source:c:\users\chor\desktop\表达式求值\fileoutput.cpp
+	"head.h"
+
+1587294322 source:c:\users\chor\desktop\表达式求值\function.cpp
+	"head.h"
+
+1587301901 source:c:\users\chor\desktop\表达式求值\main.cpp
+	"head.h"
+
